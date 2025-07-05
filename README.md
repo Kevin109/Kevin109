@@ -26,7 +26,7 @@ I'm especially experienced in early-stage prototyping, creating flying-wire adap
   In-depth documentation and display interface configurations for PX30, RK3566, and other boards.
 
 - 🖼️ Example:  
-  ![RK050HR18 with PX30 SBC](/rocktech-tft-display-configs/RK050HR18/rocktech-RK050HR18-PX30.jpg)
+  ![RK050BHD335 with PX30 SBC](https://github.com/Kevin109/rocktech-tft-display-configs/blob/main/RK050BHD335/rocktech-RK050BHD335-PX30.JPG)
 
 ---
 
