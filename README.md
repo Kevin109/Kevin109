@@ -46,6 +46,6 @@ We provide full-stack embedded display solutions: hardware + software + tuning +
 
 I’m happy to collaborate on open hardware, embedded Linux drivers, or custom Android HMI projects.
 
-📧 [My GitHub Pages](https://kevin109.github.io/docs)  
+📧 [My GitHub Pages](https://kevin109.github.io)  
 📬 Email: kevin [at] rocktech.com.hk  
 📍 Shenzhen, China
