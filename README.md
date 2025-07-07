@@ -22,7 +22,7 @@ I'm especially experienced in early-stage prototyping, creating flying-wire adap
 - 🔧 [rocktech-tft-display-configs](https://github.com/Kevin109/rocktech-tft-display-configs):  
   Device tree and panel config examples for Rocktech TFT modules on Linux and Android platforms.
 
-- 📘 [Technical Docs](https://kevin109.github.io/docs):  
+- 📘 [Technical Docs](https://kevin109.github.io):  
   In-depth documentation and display interface configurations for PX30, RK3566, and other boards.
 
 - 🖼️ Example:  
